@@ -1,0 +1,168 @@
+body{
+    background: #f3f8f7;
+    margin: 0;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}    
+    
+.name{
+    margin: 0;
+    font-family: 'Caveat', cursive;
+    font-size: 90px;
+    color: #11999E;
+    font-weight: lighter;
+}
+
+.des{
+    font-family: 'Arial', sans-serif;
+    color: #24afb4;
+    margin: 15px auto 17px auto;
+    font-size: 22px;
+}
+
+.top-container{
+    background-color: #d9faf3;  
+    height: 717px; 
+    margin-bottom: 60px;
+}
+
+.cloud1{
+    position: relative;
+    left: 450px;
+    margin-top: 55px;
+    margin-bottom: 5px;
+    height: 60px;
+    width: 187.500;
+}
+
+.cloud2{
+    position: absolute;
+    left: 13.75rem;
+    height: 60px;
+    width: 187.500;
+}
+
+.mountain{
+    position: relative;
+    top: -78px;
+    height: 500px;
+    width: 900px;
+}
+
+.circle {
+    border-radius: 100%;
+}
+
+h2{
+    color: #16bcc2;
+    font-size: 50px;
+    margin: 25px auto 10px auto;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+.hello{
+    margin: 25px auto 20px auto;
+}
+
+h3{
+    color: #11999E;
+    font-size: 25px;
+    margin: 25px auto 0px auto;
+}
+
+p{
+    color: #585858;
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    margin: 0px auto 18px auto;
+    font-weight: 600;
+}
+
+.profile{
+    width: 30%;
+    display: inline-block;
+    margin-bottom: 40px;
+}
+
+hr {
+    width: 3%;
+    border: 5px;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #9dcccc;
+    margin: 20px auto 20px auto;
+}
+
+.skills{
+    margin: 50px auto 50px auto;
+}
+
+.skill-row{
+    width: 40%;
+    margin: 40px auto 70px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.editp{
+    float: left;
+    margin-right: 30px;
+}
+
+.ytp{
+    float: right;
+    margin-left: 30px;
+}
+
+.contact-me{
+    margin: 50px auto 50px auto;
+    width: 40%;
+    line-height: 2;
+}
+
+.cm-des{
+    margin: 0px auto 40px auto;
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #11999E;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;  
+}
+  
+.btn:hover {
+    background: #16bcc2;
+    text-decoration: none;
+}
+
+.des1{
+    margin: 0px auto 25px auto;
+}
+
+.bottom-container{
+    background: #11999E;
+    margin: 80px auto 0px auto;
+    padding: 50px;
+    line-height: 2;
+}
+
+a{
+    color: #d9faf3;
+    font-family: serif;
+    padding: 0px 20px 0px 20px;
+}
+
+.copy{
+    margin: 18px auto 0px auto;
+    color: #f3f8f7;
+    font-weight: lighter;
+}
+
+
